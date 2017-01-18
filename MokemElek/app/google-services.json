@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1064221271392",
+    "firebase_url": "https://mokemelek.firebaseio.com",
+    "project_id": "mokemelek",
+    "storage_bucket": "mokemelek.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064221271392:android:b461814a97159eeb",
+        "android_client_info": {
+          "package_name": "com.example.afi.mokemelek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064221271392-b0j9vpma3trv53pejp2ess468uf6goki.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.afi.mokemelek",
+            "certificate_hash": "9D6ADE2677E3338D7F5CE4F05114FB8669B5B51C"
+          }
+        },
+        {
+          "client_id": "1064221271392-0jj42jopvt19onlleja6khhvsu07vq07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDucQMeDOT_say5JmEwhQ3pAwZcMrovmAA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064221271392-0jj42jopvt19onlleja6khhvsu07vq07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
